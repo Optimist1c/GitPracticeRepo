@@ -1,1 +1,2 @@
 # GitPracticeRepo
+amazing people
